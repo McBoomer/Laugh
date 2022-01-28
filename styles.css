@@ -6,9 +6,22 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    color:#ffffff;
+    color:white;
     min-height: 100vh;
     margin: 0;
-    background-image: url('https://wallpaperaccess.com/full/84248.png');
+    background-color: #23272a;
     background-size: 100% 100%;
   }
+
+a {
+    position: relative;
+}
+a {
+    position: absolute;
+    bottom: 0;
+}
+
+button {
+    color: black;
+    
+}
